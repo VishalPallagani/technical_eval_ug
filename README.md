@@ -23,9 +23,11 @@ Fork this repository, answer both technical and coding questions in a Jupyter no
 Spotify is one of the most popular streaming platforms, and its API provides access to detailed audio and descriptive features for songs. The primary goal of this exercise is to define a relationship between these features and the likelihood of a song becoming a hit.
 
 ### **Mathematical Representation**
-Hit Song → f(A, D) 
-- A represents the audio features of a song
-- D represents the descriptive features of a song
+```
+Hit Song → f(A, D)
+# A represents the audio features of a song
+# D represents the descriptive features of a song
+```
 
 ### **Research Questions**
 1. What features most significantly influence the likelihood of a song becoming a hit, and do these features vary across genres?
