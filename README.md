@@ -42,15 +42,11 @@ Hit Song → f(A, D)
    - Visualize the distribution of key features.
    - Analyze correlations between features and track popularity.
 
-2. **Feature Engineering:**
-   - Convert categorical variables into numerical representations.
-   - Create additional features that might be relevant (e.g., seasonality effects, genre-based aggregations).
-
-3. **Build a Predictive Model:**
-   - Train a model using `PyTorch` to predict song popularity.
+2. **Build a Predictive Model:**
+   - Train a model using to predict song popularity.
    - Use appropriate evaluation metrics such as accuracy, RMSE, or F1-score.
 
-4. **Visualization & Explanation:**
+3. **Visualization & Explanation:**
    - Use visualizations to support the research questions.
    - Explain your approach, challenges faced, and insights gained from the analysis.
 
@@ -61,5 +57,5 @@ Hit Song → f(A, D)
 - Ensure that your code is modular and reusable.
 - Push the completed notebook to your forked repository and share the link for evaluation.
 
-Good luck and happy coding!
+Good luck!
 
