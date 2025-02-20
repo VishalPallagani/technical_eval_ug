@@ -48,8 +48,6 @@ Hit Song → f(A, D)
    - Use visualizations to support the research questions.
    - Explain your approach, challenges faced, and insights gained from the analysis.
 
----
-
 ## **Submission Guidelines**
 - Your Jupyter notebook should be well-documented with explanations and visualizations.
 - Ensure that your code is modular and reusable.
