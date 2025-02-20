@@ -1,9 +1,7 @@
 # Technical Evaluation - Undergraduate
 
 ## Instructions
-Fork this repository, answer the questions in a Jupyter notebook, and upload it to your forked repository. Share your GitHub repository with answers for evaluation.
-
----
+Fork this repository, answer both technical and coding questions in a Jupyter notebook, and upload it to your forked repository. Share your GitHub repository with answers for evaluation.
 
 ## **Technical Questions**
 ### **PyTorch**
@@ -19,8 +17,6 @@ Fork this repository, answer the questions in a Jupyter notebook, and upload it 
 3. What is a tokenizer, and why is it necessary when working with transformer models?
 4. How do you fine-tune a Hugging Face transformer model on a custom dataset?
 5. Explain the difference between `Trainer` and manually implementing a training loop using PyTorch.
-
----
 
 ## **Coding Exercise: Predicting Hit Songs**
 ### **Goal**
